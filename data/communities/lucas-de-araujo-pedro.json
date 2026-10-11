@@ -1,0 +1,26 @@
+{
+  "slug": "lucas-de-araujo-pedro",
+  "type": "communities",
+  "name": "Lucas de Araujo Pedro",
+  "summary": "teste tes teste",
+  "description": "dasdasdasdasdas",
+  "url": "https://linkedin.com/in/lucaspedruo",
+  "areas": ["geral"],
+  "technologies": [],
+  "languages": ["pt-BR"],
+  "updatedAt": "2026-10-11",
+  "demo": false,
+  "communityLocation": {
+    "scope": "regional",
+    "states": ["AC", "AP", "AM", "PA", "RO", "RR", "TO"]
+  },
+  "communityPlatforms": ["whatsapp"],
+  "communityModality": "online",
+  "communityAudience": "general",
+  "communityLinks": [
+    {
+      "platform": "whatsapp",
+      "url": "https://lucas.com"
+    }
+  ]
+}
