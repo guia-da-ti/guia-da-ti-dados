@@ -1,0 +1,26 @@
+{
+  "slug": "lucas-tech",
+  "type": "communities",
+  "name": "lucas tech",
+  "summary": "teste tes teste",
+  "description": "teste teste test te",
+  "url": "https://lucas.com/",
+  "areas": ["geral"],
+  "technologies": [],
+  "languages": ["pt-BR"],
+  "updatedAt": "2026-10-11",
+  "demo": false,
+  "communityLocation": {
+    "scope": "national",
+    "states": null
+  },
+  "communityPlatforms": ["whatsapp"],
+  "communityModality": "in-person",
+  "communityAudience": "male",
+  "communityLinks": [
+    {
+      "platform": "whatsapp",
+      "url": "https://lucas.com"
+    }
+  ]
+}
