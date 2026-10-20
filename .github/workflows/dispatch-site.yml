@@ -10,18 +10,10 @@ jobs:
     steps:
       - name: Solicitar build do site
         uses: actions/github-script@v7
-        env:
-          SITE_REPOSITORY_DISPATCH_TOKEN: ${{ secrets.SITE_REPOSITORY_DISPATCH_TOKEN }}
         with:
+          github-token: ${{ secrets.SITE_REPOSITORY_DISPATCH_TOKEN }}
           script: |
-            const token = process.env.SITE_REPOSITORY_DISPATCH_TOKEN;
-            if (!token) {
-              core.setFailed('Configure o segredo SITE_REPOSITORY_DISPATCH_TOKEN neste repositório para solicitar o build do site.');
-              return;
-            }
-
-            const site = getOctokit(token);
-            await site.rest.repos.createDispatchEvent({
+            await github.rest.repos.createDispatchEvent({
               owner: 'guia-da-ti',
               repo: 'guia-da-ti',
               event_type: 'catalog-updated',
