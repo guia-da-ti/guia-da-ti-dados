@@ -1,0 +1,40 @@
+{
+  "slug": "tech-in-rio",
+  "type": "communities",
+  "name": "Tech in Rio",
+  "summary": "Nós somos mais do que tecnologia, somos a alma do Rio de Janeiro em cada byte!",
+  "description": "A Tech In Rio não é só encontro, é movimento. A gente promove troca de conhecimento e conexão entre pessoas que fortalecem a tecnologia no Rio.\n\nA porta de entrada é o grupo do WhatsApp. Nos outros canais você acompanha novidades, conteúdo e código.",
+  "url": "https://techinrio.com.br/",
+  "areas": ["geral"],
+  "technologies": [],
+  "languages": ["pt-BR"],
+  "updatedAt": "2026-10-20",
+  "demo": false,
+  "communityLocation": {
+    "scope": "regional",
+    "states": ["RJ"]
+  },
+  "communityPlatforms": ["whatsapp", "discord", "website"],
+  "communityModality": "hybrid",
+  "communityAudience": "general",
+  "communityLinks": [
+    {
+      "platform": "whatsapp",
+      "url": "https://chat.whatsapp.com/I2qMkQsEZakHxNAkDQ8HuC"
+    },
+    {
+      "platform": "discord",
+      "url": "https://discord.gg/jkunDZMkte"
+    },
+    {
+      "platform": "website",
+      "url": "https://techinrio.com.br/"
+    }
+  ],
+  "communityMembers": {
+    "count": 500,
+    "checkedAt": "2026-10-20",
+    "moreThan": true
+  },
+  "imageUrl": "https://techinrio.com.br/img/symbol-orange.png"
+}
