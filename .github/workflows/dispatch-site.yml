@@ -20,7 +20,7 @@ jobs:
               return;
             }
 
-            const site = github.getOctokit(token);
+            const site = getOctokit(token);
             await site.rest.repos.createDispatchEvent({
               owner: 'guia-da-ti',
               repo: 'guia-da-ti',
