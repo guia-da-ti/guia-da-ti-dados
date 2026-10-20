@@ -1,0 +1,12 @@
+{
+  "slug": "kultivi",
+  "type": "platforms",
+  "name": "Kultivi",
+  "summary": "Cursos online gratuitos em idiomas, tecnologia, carreira e outras áreas.",
+  "description": "Plataforma de cursos online gratuitos com certificado. O catálogo reúne conteúdos de idiomas, carreira e negócios, tecnologia e preparação para concursos, Enem e OAB.",
+  "url": "https://kultivi.com/cursos",
+  "areas": ["backend", "carreira", "educacao", "geral"],
+  "technologies": [],
+  "languages": ["pt-BR"],
+  "updatedAt": "2026-10-20"
+}
