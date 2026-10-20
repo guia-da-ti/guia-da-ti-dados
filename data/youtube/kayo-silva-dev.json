@@ -1,0 +1,15 @@
+{
+  "slug": "kayo-silva-dev",
+  "type": "youtube",
+  "name": "Kayo Silva | Dev",
+  "summary": "Tecnologia, código e IA. Aprendendo e evoluindo juntos.",
+  "description": "Explorando tecnologia, programação e IA. Compartilhando conhecimento e evoluindo juntos! \uD83D\uDE80",
+  "url": "https://www.youtube.com/@ks-dev",
+  "areas": ["ia"],
+  "technologies": ["react", "typescript"],
+  "languages": ["pt-BR"],
+  "updatedAt": "2026-10-20",
+  "demo": false,
+  "creatorCategories": ["career", "reviews", "education", "projects", "news"],
+  "imageUrl": "https://raw.githubusercontent.com/guia-da-ti/guia-da-ti-dados/main/assets/images/kayo-silva-dev-0183e5f56a9e485bacaf2cf6fa3ebc5b.png"
+}
