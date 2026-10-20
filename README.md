@@ -36,8 +36,12 @@ O resultado está em `dist/catalog.json`. Entregue esse arquivo à aplicação p
 
 ## Como chega ao site
 
-PR → validação automática → revisão humana → merge na main → build da aplicação → futuro deploy.
+PR → validação automática → revisão humana → merge na main → solicitação de build e publicação do site.
 
-A aplicação integra este repositório como submódulo Git em `database/`. O build agendado consulta a main, valida os JSONs com código próprio e gera um artefato com páginas, catálogo e SHA dos dados. O deploy no domínio ainda não está configurado. Uma sugestão por issue não publica um cadastro automaticamente.
+Após o merge, o workflow deste repositório solicita o build da aplicação com os dados atuais. A aplicação valida o catálogo antes de publicar. Um build horário continua como alternativa e avisa no resumo quando o último sucesso ocorreu há mais de duas horas.
+
+Para habilitar o gatilho após o merge, configure neste repositório o segredo `SITE_REPOSITORY_DISPATCH_TOKEN`. Use um token fine-grained com permissão `Contents: Read and write` apenas no repositório `guia-da-ti/guia-da-ti`.
+
+Uma sugestão por issue não publica um cadastro automaticamente.
 
 CODEOWNERS identifica o revisor, mas não bloqueia merges sozinho. A revisão obrigatória e os checks precisam ser exigidos pela proteção de branch nas configurações do GitHub.
