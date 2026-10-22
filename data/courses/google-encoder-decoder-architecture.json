@@ -1,0 +1,12 @@
+{
+  "slug": "google-encoder-decoder-architecture",
+  "name": "Encoder-Decoder Architecture",
+  "summary": "Curso sobre a arquitetura codificador-decodificador em tarefas de sequência.",
+  "description": "Estude os componentes da arquitetura codificador-decodificador e sua aplicação em tarefas como tradução e sumarização.",
+  "url": "https://www.cloudskillsboost.google/course_templates/543",
+  "areas": ["ia", "educacao"],
+  "technologies": ["python"],
+  "languages": ["en"],
+  "type": "courses",
+  "updatedAt": "2026-10-20"
+}

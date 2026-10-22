@@ -1,0 +1,12 @@
+{
+  "slug": "ibm-champion-nomination",
+  "name": "IBM Champion Nomination",
+  "summary": "Formulário para indicar uma pessoa ao programa IBM Champion.",
+  "description": "Consulte o formulário de indicação do programa IBM Champion. O material recebido informa o prazo como 21 de novembro, sem indicar o ano.",
+  "url": "https://airtable.com/apptsp8JtE4pGKq1A/pageQzhrp6cPxv8SB/form?prefill_Nomination+Type=Self+Nomination\u0026hide_Nomination+Type=true\u0026prefill_How+many+more+to+report=BLANK%28%29\u0026How+many+more+to+report=false",
+  "areas": ["carreira", "networking"],
+  "technologies": [],
+  "languages": ["en"],
+  "type": "events",
+  "updatedAt": "2026-10-20"
+}

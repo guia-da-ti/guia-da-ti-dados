@@ -1,0 +1,12 @@
+{
+  "slug": "ibm-watsonx-orchestrate-documentation",
+  "name": "IBM watsonx Orchestrate Documentation",
+  "summary": "Documentação do IBM watsonx Orchestrate.",
+  "description": "Consulte a documentação para conhecer e configurar recursos do IBM watsonx Orchestrate.",
+  "url": "https://www.ibm.com/docs/en/watsonx/watson-orchestrate/base",
+  "areas": ["ia", "geral"],
+  "technologies": [],
+  "languages": ["en"],
+  "type": "tools",
+  "updatedAt": "2026-10-20"
+}

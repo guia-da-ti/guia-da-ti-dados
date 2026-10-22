@@ -1,0 +1,12 @@
+{
+  "slug": "frontend-challenges",
+  "type": "challenges",
+  "name": "Front-end Challenges",
+  "summary": "Desafios práticos para desenvolver interfaces e exercitar habilidades de front-end.",
+  "description": "Repositório com propostas de projetos front-end para praticar construção de interfaces. Os desafios estão em inglês e podem ser usados para montar projetos de portfólio.",
+  "url": "https://github.com/felipefialho/frontend-challenges",
+  "areas": ["frontend", "educacao"],
+  "technologies": [],
+  "languages": ["en"],
+  "updatedAt": "2026-10-22"
+}

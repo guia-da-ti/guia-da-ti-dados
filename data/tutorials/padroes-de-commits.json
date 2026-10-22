@@ -1,0 +1,12 @@
+{
+  "slug": "padroes-de-commits",
+  "type": "tutorials",
+  "name": "Padrões de commits",
+  "summary": "Guia em português para escrever mensagens de commit consistentes.",
+  "description": "Material de referência sobre padrões de mensagens de commit, com exemplos para organizar o histórico de alterações em projetos de software.",
+  "url": "https://github.com/iuricode/padroes-de-commits",
+  "areas": ["geral", "educacao"],
+  "technologies": [],
+  "languages": ["pt-BR"],
+  "updatedAt": "2026-10-22"
+}

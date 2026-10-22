@@ -1,0 +1,12 @@
+{
+  "slug": "google-introduction-to-image-generation",
+  "name": "Introduction to Image Generation",
+  "summary": "Curso sobre modelos de difusão e geração de imagens.",
+  "description": "Conheça modelos de difusão, seus usos na geração de imagens e conceitos relacionados ao Vertex AI.",
+  "url": "https://www.cloudskillsboost.google/course_templates/541",
+  "areas": ["ia", "educacao"],
+  "technologies": [],
+  "languages": ["en"],
+  "type": "courses",
+  "updatedAt": "2026-10-20"
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "ibm-watsonx-orchestrate-bootcamp",
+  "name": "IBM watsonx Orchestrate Bootcamp",
+  "summary": "Materiais de bootcamp para aprender sobre IBM watsonx Orchestrate.",
+  "description": "Acesse o repositório do bootcamp com materiais sobre IBM watsonx Orchestrate.",
+  "url": "https://github.com/bootcampwxo",
+  "areas": ["ia", "educacao"],
+  "technologies": [],
+  "languages": ["en"],
+  "type": "courses",
+  "updatedAt": "2026-10-20"
+}

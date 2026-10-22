@@ -1,0 +1,12 @@
+{
+  "slug": "profile-readme-generator",
+  "name": "Profile README Generator",
+  "summary": "Ferramenta para criar um README de perfil do GitHub.",
+  "description": "Acesse o gerador de README para montar uma apresentação do seu perfil no GitHub.",
+  "url": "https://rahuldkjain.github.io/gh-profile-readme-generator/",
+  "areas": ["carreira", "geral"],
+  "technologies": [],
+  "languages": ["en"],
+  "type": "tools",
+  "updatedAt": "2026-10-20"
+}

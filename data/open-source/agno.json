@@ -1,0 +1,12 @@
+{
+  "slug": "agno",
+  "name": "Agno",
+  "summary": "Framework aberto para criar sistemas e agentes de inteligência artificial.",
+  "description": "Explore o projeto Agno e seus recursos para criar agentes e aplicações de IA.",
+  "url": "https://github.com/agno-agi/agno",
+  "areas": ["ia", "backend"],
+  "technologies": ["python"],
+  "languages": ["en"],
+  "type": "open-source",
+  "updatedAt": "2026-10-20"
+}

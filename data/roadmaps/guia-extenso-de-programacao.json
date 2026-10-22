@@ -1,0 +1,12 @@
+{
+  "slug": "guia-extenso-de-programacao",
+  "type": "roadmaps",
+  "name": "Guia Extenso de Programação",
+  "summary": "Repositório em português com referências para estudar programação e desenvolvimento.",
+  "description": "Guia colaborativo que reúne referências de programação em português. Explore os tópicos de interesse e confira as fontes originais antes de seguir cada recomendação.",
+  "url": "https://github.com/arthurspk/guiadevbrasil",
+  "areas": ["educacao", "geral"],
+  "technologies": [],
+  "languages": ["pt-BR"],
+  "updatedAt": "2026-10-22"
+}

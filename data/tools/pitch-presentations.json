@@ -1,0 +1,12 @@
+{
+  "slug": "pitch-presentations",
+  "name": "Pitch",
+  "summary": "Plataforma para criar e compartilhar apresentações.",
+  "description": "Crie apresentações em equipe e compartilhe os materiais pela plataforma Pitch.",
+  "url": "https://pitch.com/",
+  "areas": ["design", "geral"],
+  "technologies": [],
+  "languages": ["en"],
+  "type": "tools",
+  "updatedAt": "2026-10-20"
+}

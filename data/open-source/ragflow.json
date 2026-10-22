@@ -1,0 +1,12 @@
+{
+  "slug": "ragflow",
+  "name": "RAGFlow",
+  "summary": "Plataforma aberta para criar fluxos de geração aumentada por recuperação.",
+  "description": "Explore o repositório do RAGFlow e sua implementação de fluxos de RAG.",
+  "url": "https://github.com/infiniflow/ragflow",
+  "areas": ["ia", "dados"],
+  "technologies": [],
+  "languages": ["en"],
+  "type": "open-source",
+  "updatedAt": "2026-10-20"
+}

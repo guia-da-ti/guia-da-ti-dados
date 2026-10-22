@@ -1,0 +1,12 @@
+{
+  "slug": "google-transformer-models-bert",
+  "name": "Transformer Models and BERT Model",
+  "summary": "Curso sobre a arquitetura Transformer e o modelo BERT.",
+  "description": "Conheça componentes da arquitetura Transformer e aplicações do modelo BERT em tarefas de processamento de linguagem.",
+  "url": "https://www.cloudskillsboost.google/course_templates/538",
+  "areas": ["ia", "educacao"],
+  "technologies": ["python"],
+  "languages": ["en"],
+  "type": "courses",
+  "updatedAt": "2026-10-20"
+}

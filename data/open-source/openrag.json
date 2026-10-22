@@ -1,0 +1,12 @@
+{
+  "slug": "openrag",
+  "name": "OpenRAG",
+  "summary": "Projeto aberto para criar aplicações de geração aumentada por recuperação.",
+  "description": "Explore o repositório OpenRAG, que reúne componentes para montar aplicações de RAG.",
+  "url": "https://github.com/langflow-ai/openrag",
+  "areas": ["ia", "dados"],
+  "technologies": [],
+  "languages": ["en"],
+  "type": "open-source",
+  "updatedAt": "2026-10-20"
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "decktopus",
+  "name": "Decktopus AI",
+  "summary": "Ferramenta online para criação de apresentações.",
+  "description": "Crie apresentações usando os recursos de edição e geração disponíveis no Decktopus AI.",
+  "url": "https://www.decktopus.com/",
+  "areas": ["design", "geral"],
+  "technologies": [],
+  "languages": ["en"],
+  "type": "tools",
+  "updatedAt": "2026-10-20"
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "gamma-presentations",
+  "name": "Gamma",
+  "summary": "Ferramenta para criar apresentações e documentos visuais.",
+  "description": "Monte apresentações e outros formatos visuais usando o editor online da Gamma.",
+  "url": "https://gamma.app/",
+  "areas": ["design", "geral"],
+  "technologies": [],
+  "languages": ["en"],
+  "type": "tools",
+  "updatedAt": "2026-10-20"
+}

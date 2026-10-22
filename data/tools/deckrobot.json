@@ -1,0 +1,12 @@
+{
+  "slug": "deckrobot",
+  "name": "DeckRobot",
+  "summary": "Ferramenta para formatar e criar apresentações empresariais.",
+  "description": "Use o DeckRobot para preparar e formatar apresentações a partir de modelos empresariais.",
+  "url": "https://deckrobot.com/",
+  "areas": ["design", "geral"],
+  "technologies": [],
+  "languages": ["en"],
+  "type": "tools",
+  "updatedAt": "2026-10-20"
+}

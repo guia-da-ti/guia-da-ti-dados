@@ -1,0 +1,12 @@
+{
+  "slug": "backend-challenges",
+  "type": "challenges",
+  "name": "Backend Challenges",
+  "summary": "Desafios de desenvolvimento back-end para praticar APIs, serviços e lógica de servidor.",
+  "description": "Repositório com ideias de projetos back-end para praticar desenvolvimento de serviços. Os desafios estão em inglês e ajudam a transformar conceitos em projetos próprios.",
+  "url": "https://github.com/CollabCodeTech/backend-challenges",
+  "areas": ["backend", "educacao"],
+  "technologies": [],
+  "languages": ["en"],
+  "updatedAt": "2026-10-22"
+}

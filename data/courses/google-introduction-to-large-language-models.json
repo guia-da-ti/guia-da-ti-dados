@@ -1,0 +1,12 @@
+{
+  "slug": "google-introduction-to-large-language-models",
+  "name": "Introduction to Large Language Models",
+  "summary": "Curso introdutório sobre modelos de linguagem grandes e seus usos.",
+  "description": "Explore o que são modelos de linguagem grandes, casos de uso e técnicas de ajuste de prompts.",
+  "url": "https://www.cloudskillsboost.google/course_templates/539",
+  "areas": ["ia", "educacao"],
+  "technologies": [],
+  "languages": ["en", "pt-BR"],
+  "type": "courses",
+  "updatedAt": "2026-10-20"
+}

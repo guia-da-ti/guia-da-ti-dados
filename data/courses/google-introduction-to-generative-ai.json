@@ -1,0 +1,12 @@
+{
+  "slug": "google-introduction-to-generative-ai",
+  "name": "Introduction to Generative AI",
+  "summary": "Curso introdutório sobre conceitos, usos e modelos de inteligência artificial generativa.",
+  "description": "Conheça conceitos de inteligência artificial generativa, diferenças em relação ao aprendizado de máquina tradicional e exemplos de aplicação.",
+  "url": "https://www.cloudskillsboost.google/course_templates/536",
+  "areas": ["ia", "educacao"],
+  "technologies": [],
+  "languages": ["en", "pt-BR"],
+  "type": "courses",
+  "updatedAt": "2026-10-20"
+}

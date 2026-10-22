@@ -1,0 +1,12 @@
+{
+  "slug": "rag-techniques",
+  "name": "RAG Techniques",
+  "summary": "Coleção aberta de exemplos e técnicas para sistemas de RAG.",
+  "description": "Consulte exemplos de técnicas para implementar e avaliar sistemas de geração aumentada por recuperação.",
+  "url": "https://github.com/NirDiamant/RAG_Techniques",
+  "areas": ["ia", "dados", "educacao"],
+  "technologies": ["python"],
+  "languages": ["en"],
+  "type": "open-source",
+  "updatedAt": "2026-10-20"
+}

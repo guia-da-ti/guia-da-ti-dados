@@ -1,0 +1,12 @@
+{
+  "slug": "firecrawl",
+  "name": "Firecrawl",
+  "summary": "Ferramenta para rastrear sites e converter páginas em conteúdo para aplicações.",
+  "description": "Consulte a documentação e os recursos do Firecrawl para extrair conteúdo de páginas web para uso em aplicações.",
+  "url": "https://www.firecrawl.dev/",
+  "areas": ["backend", "ia", "dados"],
+  "technologies": [],
+  "languages": ["en"],
+  "type": "tools",
+  "updatedAt": "2026-10-20"
+}

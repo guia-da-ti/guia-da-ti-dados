@@ -1,0 +1,12 @@
+{
+  "slug": "slidespeak",
+  "name": "SlideSpeak",
+  "summary": "Ferramenta para criar e consultar apresentações.",
+  "description": "Acesse recursos para gerar apresentações e interagir com arquivos de slides.",
+  "url": "https://slidespeak.co/",
+  "areas": ["design", "geral"],
+  "technologies": [],
+  "languages": ["en"],
+  "type": "tools",
+  "updatedAt": "2026-10-20"
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "slidesai",
+  "name": "SlidesAI.io",
+  "summary": "Ferramenta para criar apresentações a partir de texto.",
+  "description": "Use texto como ponto de partida para gerar e editar apresentações no SlidesAI.io.",
+  "url": "https://www.slidesai.io/",
+  "areas": ["design", "geral"],
+  "technologies": [],
+  "languages": ["en"],
+  "type": "tools",
+  "updatedAt": "2026-10-20"
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "readme-template",
+  "type": "tools",
+  "name": "README Template",
+  "summary": "Modelo em português para documentar projetos no GitHub.",
+  "description": "Repositório com um modelo de README para apresentar objetivo, instalação e uso de um projeto. Adapte as seções à documentação que cada projeto precisa.",
+  "url": "https://github.com/iuricode/readme-template",
+  "areas": ["geral", "carreira"],
+  "technologies": [],
+  "languages": ["pt-BR"],
+  "updatedAt": "2026-10-22"
+}

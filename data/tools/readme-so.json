@@ -1,0 +1,12 @@
+{
+  "slug": "readme-so",
+  "name": "Readme.so",
+  "summary": "Editor visual para estruturar e escrever arquivos README.",
+  "description": "Monte as seções do seu README em um editor visual e exporte o arquivo para o projeto.",
+  "url": "https://readme.so/pt",
+  "areas": ["geral"],
+  "technologies": [],
+  "languages": ["pt-BR"],
+  "type": "tools",
+  "updatedAt": "2026-10-20"
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "github-profile-readme-maker-gprm",
+  "name": "GitHub Profile README Maker (GPRM)",
+  "summary": "Gerador de README para perfis do GitHub.",
+  "description": "Preencha os campos da página para gerar conteúdo de apresentação para o README do seu perfil.",
+  "url": "https://gprm.itsvg.in",
+  "areas": ["carreira", "geral"],
+  "technologies": [],
+  "languages": ["en"],
+  "type": "tools",
+  "updatedAt": "2026-10-20"
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "ibm-watsonx-orchestrate-adk-docs",
+  "name": "IBM watsonx Orchestrate ADK Documentation",
+  "summary": "Documentação para desenvolver com o ADK do IBM watsonx Orchestrate.",
+  "description": "Consulte os guias para instalar e usar o ADK do IBM watsonx Orchestrate.",
+  "url": "https://developer.watson-orchestrate.ibm.com/",
+  "areas": ["ia", "backend", "educacao"],
+  "technologies": [],
+  "languages": ["en"],
+  "type": "tutorials",
+  "updatedAt": "2026-10-20"
+}

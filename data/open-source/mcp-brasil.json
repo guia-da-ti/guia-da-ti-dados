@@ -1,0 +1,12 @@
+{
+  "slug": "mcp-brasil",
+  "name": "MCP Brasil",
+  "summary": "Projeto brasileiro relacionado ao Model Context Protocol.",
+  "description": "Acesse o repositório MCP Brasil para consultar projetos e materiais da comunidade sobre MCP.",
+  "url": "https://github.com/jxnxts/mcp-brasil",
+  "areas": ["ia", "networking"],
+  "technologies": [],
+  "languages": ["pt-BR"],
+  "type": "open-source",
+  "updatedAt": "2026-10-20"
+}

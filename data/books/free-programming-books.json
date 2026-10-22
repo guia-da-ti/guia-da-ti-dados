@@ -1,0 +1,12 @@
+{
+  "slug": "free-programming-books",
+  "type": "books",
+  "name": "Free Programming Books",
+  "summary": "Índice colaborativo de livros gratuitos sobre programação em vários idiomas.",
+  "description": "Lista livros e outros materiais gratuitos de programação por tema e idioma. O repositório aponta para as fontes dos materiais; confira as condições de acesso e uso em cada fonte.",
+  "url": "https://github.com/EbookFoundation/free-programming-books",
+  "areas": ["educacao", "geral"],
+  "technologies": [],
+  "languages": ["en", "pt-BR"],
+  "updatedAt": "2026-10-22"
+}

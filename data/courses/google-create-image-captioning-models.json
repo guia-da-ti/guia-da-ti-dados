@@ -1,0 +1,12 @@
+{
+  "slug": "google-create-image-captioning-models",
+  "name": "Create Image Captioning Models",
+  "summary": "Curso prático sobre modelos que geram descrições para imagens.",
+  "description": "Aprenda sobre os componentes de um modelo de descrição de imagens e como treiná-lo e avaliá-lo.",
+  "url": "https://www.cloudskillsboost.google/course_templates/542",
+  "areas": ["ia", "educacao"],
+  "technologies": ["python"],
+  "languages": ["en"],
+  "type": "courses",
+  "updatedAt": "2026-10-20"
+}

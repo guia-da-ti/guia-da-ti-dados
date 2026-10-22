@@ -1,0 +1,12 @@
+{
+  "slug": "public-apis",
+  "type": "open-source",
+  "name": "Public APIs",
+  "summary": "Lista colaborativa de APIs públicas para explorar e usar em projetos.",
+  "description": "Repositório organizado por categorias com APIs públicas e informações de acesso. Consulte os termos de cada serviço antes de usar uma API em um projeto.",
+  "url": "https://github.com/public-apis/public-apis",
+  "areas": ["backend", "educacao"],
+  "technologies": [],
+  "languages": ["en"],
+  "updatedAt": "2026-10-22"
+}

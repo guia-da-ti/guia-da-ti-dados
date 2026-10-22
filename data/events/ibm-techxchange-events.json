@@ -1,0 +1,12 @@
+{
+  "slug": "ibm-techxchange-events",
+  "name": "IBM TechXChange Events",
+  "summary": "Agenda de eventos da comunidade IBM TechXChange.",
+  "description": "Consulte a página oficial de eventos da IBM TechXChange.",
+  "url": "https://www.ibm.com/community/techxchange-events/",
+  "areas": ["eventos", "networking"],
+  "technologies": [],
+  "languages": ["en"],
+  "type": "events",
+  "updatedAt": "2026-10-20"
+}

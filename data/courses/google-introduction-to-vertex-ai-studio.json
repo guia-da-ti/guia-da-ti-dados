@@ -1,0 +1,12 @@
+{
+  "slug": "google-introduction-to-vertex-ai-studio",
+  "name": "Introduction to Vertex AI Studio",
+  "summary": "Curso introdutório sobre criação de protótipos com o Vertex AI Studio.",
+  "description": "Explore o Vertex AI Studio para interagir com modelos generativos, testar ideias e criar protótipos.",
+  "url": "https://www.cloudskillsboost.google/course_templates/552",
+  "areas": ["ia", "cloud", "educacao"],
+  "technologies": [],
+  "languages": ["en"],
+  "type": "courses",
+  "updatedAt": "2026-10-20"
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "android-developer-training",
+  "type": "tutorials",
+  "name": "Android Developers: treinamento",
+  "summary": "Trilhas oficiais para aprender desenvolvimento de aplicativos Android.",
+  "description": "Materiais oficiais do Android para estudar desenvolvimento de aplicativos, com guias e cursos organizados por experiência. Algumas páginas estão disponíveis em português.",
+  "url": "https://developer.android.com/?hl=pt-br",
+  "areas": ["mobile", "educacao"],
+  "technologies": [],
+  "languages": ["pt-BR", "en"],
+  "updatedAt": "2026-10-22"
+}

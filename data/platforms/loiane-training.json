@@ -1,0 +1,12 @@
+{
+  "slug": "loiane-training",
+  "type": "platforms",
+  "name": "Loiane Training",
+  "summary": "Cursos e tutoriais de programação com conteúdo em português e inglês.",
+  "description": "Plataforma de Loiane Groner com cursos e materiais sobre desenvolvimento de software, incluindo Java, Angular e Spring. Consulte cada curso para ver o idioma e as condições de acesso.",
+  "url": "https://loiane.training",
+  "areas": ["frontend", "backend", "educacao"],
+  "technologies": [],
+  "languages": ["pt-BR", "en"],
+  "updatedAt": "2026-10-22"
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "google-attention-mechanism",
+  "name": "Attention Mechanism",
+  "summary": "Curso sobre mecanismos de atenção em modelos de aprendizado de máquina.",
+  "description": "Entenda como mecanismos de atenção ajudam redes neurais a priorizar partes de uma sequência de entrada.",
+  "url": "https://www.cloudskillsboost.google/course_templates/537",
+  "areas": ["ia", "educacao"],
+  "technologies": [],
+  "languages": ["en"],
+  "type": "courses",
+  "updatedAt": "2026-10-20"
+}

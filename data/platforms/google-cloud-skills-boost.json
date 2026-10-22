@@ -1,0 +1,12 @@
+{
+  "slug": "google-cloud-skills-boost",
+  "name": "Google Cloud Skills Boost",
+  "summary": "Plataforma de cursos e laboratórios práticos sobre Google Cloud.",
+  "description": "Explore cursos, trilhas e laboratórios práticos sobre produtos e tecnologias do Google Cloud.",
+  "url": "https://www.cloudskillsboost.google/",
+  "areas": ["cloud", "educacao", "ia"],
+  "technologies": [],
+  "languages": ["en"],
+  "type": "platforms",
+  "updatedAt": "2026-10-20"
+}

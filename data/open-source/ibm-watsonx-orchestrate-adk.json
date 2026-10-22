@@ -1,0 +1,12 @@
+{
+  "slug": "ibm-watsonx-orchestrate-adk",
+  "name": "IBM watsonx Orchestrate ADK",
+  "summary": "Kit de desenvolvimento aberto para IBM watsonx Orchestrate.",
+  "description": "Explore o repositório do ADK para desenvolver extensões e agentes para IBM watsonx Orchestrate.",
+  "url": "https://github.com/IBM/ibm-watsonx-orchestrate-adk/tree/main",
+  "areas": ["ia", "backend"],
+  "technologies": [],
+  "languages": ["en"],
+  "type": "open-source",
+  "updatedAt": "2026-10-20"
+}

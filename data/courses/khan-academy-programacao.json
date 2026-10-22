@@ -1,0 +1,12 @@
+{
+  "slug": "khan-academy-programacao",
+  "type": "courses",
+  "name": "Khan Academy: programação básica",
+  "summary": "Conteúdo introdutório de programação da Khan Academy em português.",
+  "description": "Área da Khan Academy com materiais de programação básica. O conteúdo é gratuito e voltado a quem está começando. A disponibilidade de aulas pode variar por idioma.",
+  "url": "https://pt.khanacademy.org/computing/computer-programming",
+  "areas": ["educacao", "geral"],
+  "technologies": [],
+  "languages": ["pt-BR"],
+  "updatedAt": "2026-10-22"
+}

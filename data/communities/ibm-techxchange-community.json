@@ -1,0 +1,24 @@
+{
+  "slug": "ibm-techxchange-community",
+  "name": "IBM TechXChange Community",
+  "summary": "Comunidade IBM para troca de conhecimento sobre tecnologia e produtos IBM.",
+  "description": "Participe da comunidade IBM TechXChange para acompanhar discussões, grupos e atividades de tecnologia.",
+  "url": "https://community.ibm.com/community/user/my-community",
+  "areas": ["networking", "geral"],
+  "technologies": [],
+  "languages": ["en"],
+  "communityLocation": {
+    "scope": "international"
+  },
+  "communityPlatforms": ["website"],
+  "communityModality": "online",
+  "communityAudience": "general",
+  "communityLinks": [
+    {
+      "platform": "website",
+      "url": "https://community.ibm.com/community/user/my-community"
+    }
+  ],
+  "type": "communities",
+  "updatedAt": "2026-10-20"
+}

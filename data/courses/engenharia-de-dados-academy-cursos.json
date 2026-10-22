@@ -1,0 +1,12 @@
+{
+  "slug": "engenharia-de-dados-academy-cursos",
+  "name": "Engenharia de Dados Academy",
+  "summary": "Cursos sobre engenharia de dados oferecidos pela plataforma.",
+  "description": "Consulte o catálogo da Engenharia de Dados Academy para conhecer os cursos disponíveis na área de dados.",
+  "url": "https://meuscursos.engenhariadedadosacademy.com",
+  "areas": ["dados", "educacao"],
+  "technologies": [],
+  "languages": ["pt-BR"],
+  "type": "courses",
+  "updatedAt": "2026-10-20"
+}
