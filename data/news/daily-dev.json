@@ -1,0 +1,22 @@
+{
+  "slug": "daily-dev",
+  "type": "news",
+  "name": "Daily Dev",
+  "summary": "Acompanhe as principais notícias, tendências e novidades sobre tecnologia, programação e desenvolvimento de software em um só lugar.",
+  "description": "O Daily Dev é ideal para desenvolvedores, programadores, estudantes de tecnologia e profissionais de TI que desejam acompanhar novidades, tendências e conteúdos relevantes do setor. A plataforma reúne artigos, notícias e conteúdos sobre programação, inteligência artificial, desenvolvimento web e outras tecnologias. O acesso é gratuito, com opções de personalização e recursos que podem exigir cadastro.",
+  "url": "https://daily.dev/",
+  "areas": ["geral"],
+  "technologies": [
+    "react",
+    "typescript",
+    "csharp",
+    "dotnet",
+    "python",
+    "linux",
+    "figma"
+  ],
+  "languages": ["en"],
+  "updatedAt": "2026-10-23",
+  "demo": false,
+  "imageUrl": "https://raw.githubusercontent.com/guia-da-ti/guia-da-ti-dados/main/assets/images/daily-dev-607e32bcd19744ed905fcd88ee1ac090.png"
+}
