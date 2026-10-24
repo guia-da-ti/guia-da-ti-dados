@@ -1,0 +1,14 @@
+{
+  "slug": "remotehunter",
+  "type": "jobs",
+  "name": "RemoteHunter",
+  "summary": "Buscador de empregos remotos impulsionado por inteligência artificial que ajuda a encontrar vagas reais, otimizar currículos e automatizar candidaturas.",
+  "description": "Necessário inscrever-se para o acesso de todas as funcionalidades",
+  "url": "https://www.remotehunter.com/",
+  "areas": ["carreira"],
+  "technologies": [],
+  "languages": ["pt-BR", "en", "es"],
+  "updatedAt": "2026-10-24",
+  "demo": false,
+  "imageUrl": "https://www.linkedin.com/company/remotehunter"
+}
