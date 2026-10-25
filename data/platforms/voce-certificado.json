@@ -1,0 +1,14 @@
+{
+  "slug": "voce-certificado",
+  "type": "platforms",
+  "name": "Você Certificado",
+  "summary": "Cursos, simulados, laboratórios e guias de estudo para certificação AWS.",
+  "description": "Indicada para quem quer começar na AWS ou se preparar para os exames de certificação, com cursos em português, simulados e laboratórios práticos. O acesso é pago e exige cadastro na plataforma.",
+  "url": "https://www.vocecertificado.com.br/",
+  "areas": ["cloud"],
+  "technologies": [],
+  "languages": ["pt-BR"],
+  "updatedAt": "2026-10-25",
+  "demo": false,
+  "imageUrl": "https://raw.githubusercontent.com/guia-da-ti/guia-da-ti-dados/main/assets/images/voce-certificado-504f3e3898a3490eb9526d3d2c767825.png"
+}
