@@ -32,7 +32,7 @@ npm test
 npm run format:check
 ```
 
-O resultado está em `dist/catalog.json`. Entregue esse arquivo à aplicação por `CATALOG_PATH`. Os exemplos desta fundação são fictícios e estão identificados com `demo: true`.
+O resultado está em `dist/catalog.json`. Configure `CATALOG_PATH` na aplicação para usar esse arquivo.
 
 ## Como chega ao site
 
